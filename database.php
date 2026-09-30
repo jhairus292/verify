@@ -1,8 +1,8 @@
 <?php
-$host = "localhost";
-$dbname = "verifyph";
-$username = "root";
-$password = "";
+$host = "sql311.infinityfree.com";
+$user = "if0_43049852";
+$pass = "YOUR_MYSQL_PASSWORD";
+$db   = "if0_43049852_verifyph";
 
 try {
     $pdo = new PDO(
